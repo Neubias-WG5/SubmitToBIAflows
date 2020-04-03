@@ -13,7 +13,7 @@ Please fill in the following information .
 *Name of your workflow*
 
 ### Quick description
-*Quickly describe what your workflow do and which tools it is using*
+*Quickly describe what your workflow does and which tools it is using*
 
 ### Github repository
 *URL of the github repository hosting your workflow code*
