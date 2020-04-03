@@ -1,22 +1,31 @@
 ---
 name: Workflow integration request
 about: Template for Workflow integration request to Biaflows
-title: 'WI [WORKFLOW_NAME] '
+title: "[WORKFLOW_NAME] "
 labels: new_workflow
 assignees: ''
 
 ---
 
-## Basic information
-Please fill in the following information. 
+Please fill in the following informations (you can remove current text)
 
-**Workflow name**: 
-**Git repository URL**: 
-**Docker hub repository URL**: 
-**Problem class(es)**: *supported problem classes from (our list)[https://neubias-wg5.github.io/problem_class_ground_truth.html]*
-**Biaflows problems**: *what problem do you want to run your workflow against on biaflows? (problem id and/or name)*
+### Workflow name
+Name of your workflow
 
-Optionally, you can provide: 
+### Quick description
+Quickly describe what your workflow do and which tools it is using
 
-**Quick description**: *what does your workflow do ? summarize in two sentences at most*
-**References/publications**: *one or more references related to your workflow*
+### Github repository
+URL of the github repository hosting your workflow code
+
+### Dockerhub repository
+URL of the dockerhub repository hosting your workflow image
+
+### Supported problem classes
+List the problem classes (from [our list](https://neubias-wg5.github.io/problem_class_ground_truth.html)) supported by your workflow
+
+### Biaflows problems 
+What problem do you want to run your workflow against on Biaflows? (problem id and/or name)
+
+### References 
+Any publication related to your workflow ?
